@@ -33,4 +33,14 @@ I might add more in the future.
 
 Enjoy!
 
+## How To Install
+Instructions
 
+You can save the icons to any location but I recommend putting them in the main foobar program files folder for convenience, in a subfolder called toolbar icons or something similar.
+  
+To apply them: 
+1. Right click the toolbar area in foobar (the area with the icons)
+2. Click 'Customize Buttons'
+3. Click 'Change Icon'
+4. Navigate to the icon you want to use for that particular button.
+5. Press OK and that's it
