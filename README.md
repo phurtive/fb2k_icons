@@ -5,25 +5,27 @@ This is a basic icon pack for foobar2000 (default UI) made with GIMP 2.8.22. Tho
 
 The following icons are covered:
 
--Play
--Pause
--Stop
--Stop after current
--Previous
--Next
--Random
--Reshuffle (2 types: standard shuffle arrows or dice)
--Open containing folder
--Properties
--File / Open...
--File / Open audio CD...
--File / Preferences
--Library / Rescan folders
--View / Visualizations... (2 types: an eyeball and a droplet for MilkDrop)
--View / Console
 
-Mix and match as you please, of course.
+-Play  
+-Pause  
+-Stop  
+-Stop after current  
+-Previous  
+-Next  
+-Random  
+-Reshuffle (2 types: standard shuffle arrows or dice)  
+-Open containing folder  
+-Properties  
+-File / Open...  
+-File / Open audio CD...  
+-File / Preferences  
+-Library / Rescan folders  
+-View / Visualizations... (2 types: an eyeball and a droplet for MilkDrop)  
+-View / Console  
 
-I might add more in the future. 
+
+Mix and match as you please, of course.  
+
+I might add more in the future.   
 
 Enjoy!
