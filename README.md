@@ -1,7 +1,7 @@
 # fb2k_icons
-Toolbar icon pack for foobar2000
+Toolbar icon pack for foobar2000 (default UI)
 
-This is a basic icon pack for foobar2000 (default UI) made with GIMP 2.8.22. Thought I'd share it in case any one else needed toolbar icons (since there are only a few included with foobar by deafault). This pack doesn't cover every single icon, but will cover a lot of the important ones. 
+This is a basic icon pack for foobar2000 (default UI) made with GIMP 2.8.22. Thought I'd share it in case any one else needed toolbar icons (since there are only a few included with foobar by deafault). This pack doesn't cover every single icon, but will cover a lot of the important ones. There are 18 icons.
 
 The following icons are covered:
 
